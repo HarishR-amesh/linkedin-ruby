@@ -36,7 +36,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 1.9.3'
 
-  spec.add_dependency 'faraday', '~> 0.15'
+  spec.add_dependency 'faraday', '0.16.1'
   spec.add_dependency 'hashie', '~> 3.2'
   spec.add_dependency 'oauth2', '~> 1.4'
 
