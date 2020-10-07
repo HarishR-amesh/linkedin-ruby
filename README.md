@@ -1,4 +1,6 @@
 # Linkedin
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHarishR-amesh%2Flinkedin-ruby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHarishR-amesh%2Flinkedin-ruby?ref=badge_shield)
+
 
 Ruby-wrapper for LinkedIn API version 2 with Oauth2 support.
 
@@ -146,3 +148,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## Code of Conduct
 
 Everyone interacting in the Linkedin project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/linkedin-ruby/blob/master/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHarishR-amesh%2Flinkedin-ruby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHarishR-amesh%2Flinkedin-ruby?ref=badge_large)
